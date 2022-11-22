@@ -19,3 +19,7 @@ learn LVM
 ## Сделал snapshot и восстановился из него 
 
 ![final](https://user-images.githubusercontent.com/59445051/203165124-4a31c997-acc6-46dc-a2f2-526a2b883082.png)
+
+## Добавил логический том с ФС btrfs на диск sdb и смонтировал в него /opt
+
+![opt20221122_234952](https://user-images.githubusercontent.com/59445051/203420262-2d7df884-5ddb-426f-8f08-e705ee97011f.png)
